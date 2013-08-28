@@ -1,0 +1,5 @@
+(Not only) move around
+======================
+
+Return to the last insertion position in insert mode:
+gi
