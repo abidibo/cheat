@@ -1,5 +1,17 @@
+
 (Not only) move around
 ======================
 
 Return to the last insertion position in insert mode:
 gi
+
+Macros
+======================
+Starting recording a set of commands in the register a:
+qa
+Finishing recording:
+q
+Inspect the recording a:
+:reg a
+Repeat the recording a:
+@a
